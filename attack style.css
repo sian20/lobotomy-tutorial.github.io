@@ -1,0 +1,19 @@
+h2{text-align: center;
+}
+
+h3{text-align: center;}
+
+div{border: 1px solid black;
+  padding: 10px;
+}
+
+span{font-size: 20px;
+display:inline-grid;
+  padding: 10px;}
+
+#grid{display: grid;
+grid-template-rows: 1fr;
+}
+
+.grid{grid-template-columns: 1fr 1fr 6fr;
+}
